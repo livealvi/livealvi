@@ -2,7 +2,7 @@
 
 # <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there! I'm Alvi Hasan&nbsp; ![](https://komarev.com/ghpvc/?username=livealvi&label=PROFILE+VIEWS&color=blueviolet)
 
-A frontend developer from Bangladesh. Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
+A full stack developer from Bangladesh. Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
 
 Feel free to connect with me. I'm also **available** at: <br>
