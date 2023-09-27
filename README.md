@@ -3,7 +3,7 @@
 # <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there! I'm Alvi Hasan&nbsp; ![](https://komarev.com/ghpvc/?username=livealvi&label=PROFILE+VIEWS&color=blueviolet)
 
 A full stack developer from Bangladesh. Strong exprinece in RESTful API Development, MERN, PERN, NodeJs, ExpressJs, NestJs, ReactJs, .NET Core, ASP.NET Framework, SQL(PostgreSQL, MSSQL, MySQL, MariaDB), NoSQL(MongoDB) AWS, Docker. <br>
-Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
+
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
 
 Feel free to connect with me. I'm also **available** at: <br>
